@@ -1,4 +1,1 @@
-<h1
-  align="center"
-> JavaScript Expert
-</h1>
+# JavaScript Expert
