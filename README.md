@@ -1,1 +1,9 @@
-# JavaScript Expert
+<h1
+  align="center"
+>
+  <img
+    width="250px"
+    height="60px"
+    src="./assets/logo-javascript-expert.png"
+  >
+</h1>
