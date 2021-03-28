@@ -7,8 +7,8 @@
   >
 </h1>
 
-<h2
+<h3
   align="capitalize"
 >
-  HackerChat é uma aplicação de chat que roda diretamente no terminal do computador, a aplicação foi criada na semana JavaScript Expert pelo instrutor e especialista em JavaScript Erick Wendel.
-</h2>
+  Hacker _Chat is a chat application that runs directly on the computer terminal, the application was created in the <a src="https://javascriptexpert.com.br/lc_jse_mar21_inscricao">JavaScript Expert Week</a> by the instructor and JavaScript specialist <a src="https://github.com/erickwendel">Erick Wendel</a>.
+</h3>
